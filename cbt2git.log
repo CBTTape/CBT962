@@ -1,0 +1,9 @@
+2025-04-14 00:31:28.805217 - Received CBT.V508.FILE962.PDS from FILE962.XMI 
+2025-04-14 00:31:28.806178 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE962.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:31:28.806275 - Found @FILE962.txt (text/plain) in CBT.V508.FILE962.PDS, moved to PDS/@FILE962
+2025-04-14 00:31:28.806372 - Found BDRHMNT1.bin (application/octet-stream) in CBT.V508.FILE962.PDS, moved to PDS/BDRHMNT1
+2025-04-14 00:31:28.806457 - Found BDRUMNT1.bin (application/octet-stream) in CBT.V508.FILE962.PDS, moved to PDS/BDRUMNT1
+2025-04-14 00:31:28.806536 - Found BDRUMNT4.bin (application/octet-stream) in CBT.V508.FILE962.PDS, moved to PDS/BDRUMNT4
+2025-04-14 00:31:28.806715 - Found BDRXMNT.bin (application/octet-stream) in CBT.V508.FILE962.PDS, moved to PDS/BDRXMNT
+2025-04-14 00:31:28.807239 - Found DOCX.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) in CBT.V508.FILE962.PDS, moved to docs/DOCX.docx
+2025-04-14 00:31:28.807339 - Found TEMPNAME.rexx (text/plain) in CBT.V508.FILE962.PDS, moved to PDS/TEMPNAME
